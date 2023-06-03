@@ -4,4 +4,5 @@
 #Tabelas
 #Modelos de entidade e relacionamento
 #imagens
-
+# atividade avaliativa 2° Bimestre
+# compor nota mensal 
