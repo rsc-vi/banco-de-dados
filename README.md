@@ -6,3 +6,4 @@
 #imagens
 # atividade avaliativa 2° Bimestre
 # compor nota mensal 
+# VitaCure.sql
