@@ -1,10 +1,10 @@
 # banco-de-dados
-#Atividades e trabalhos feitos.
+#Adicionar trabalhos e Atividades.
 #Trabalho do 1° Bimestre
 #Tabelas
 #Modelos de entidade e relacionamento
 #imagens
-# atividade avaliativa 2° Bimestre
-# compor nota mensal 
-# VitaCure.sql
-# Biblioteca.sql
+#Atividade avaliativa 2° Bimestre.
+#Compor nota mensal.
+#VitaCure.sql
+#Biblioteca.sql
